@@ -76,9 +76,7 @@ function install_kiali(){
 ## call Function 
 
 download_Istio
-sleep 30
 install_istio_without_egress
-sleep 20
 #install_istio_with_egress
 istio_injection_namespaces
 istio_analyze
