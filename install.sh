@@ -1,10 +1,10 @@
 #!/bin/bash 
 
 ###################################################################
-#Script Name	:Install istio GKE                                                                                              
+#Script Name	:Install istio Kubernetes                                                                                              
 #Description	:                                                                                 
 #Args           	:                                                                                           
-#Author       	:Matos Evandro Matos                                                
+#Author       	:Matos Evandro                                                
 #Email         	:evandromatos.si.ti@gmail.com                                           
 ###################################################################
 
